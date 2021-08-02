@@ -5,7 +5,5 @@ instalation
 Save remote repo from GitHub to your computer Desktop.
 cd to the desktop
 git clone https://github.com/mhennis7/Challenge_18/edit/main/README.md
-now you can find it on your machine
-Choose pychain.py  file to see the file in VS code app.
-Run streamlit
-In the terminal, run the Streamlit app by running the command. 
+now you can find it on your machine. Choose pychain.py  file to see the file in VS code app.
+Run streamlit- In the terminal, run the Streamlit app by running the command. 
